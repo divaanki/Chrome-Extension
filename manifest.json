@@ -2,7 +2,7 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name" : "Bookmark",
+    "name" : "SaveMyLinks",
     "action":
     {
         "default_popup": "index.html",
@@ -10,5 +10,11 @@
     },
     "permissions": [
         "tabs"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["delete_icon.png", "icon.PNG"],
+            "matches": ["<all_urls>"]
+        }
     ]
 }
