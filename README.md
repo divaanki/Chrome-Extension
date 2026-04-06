@@ -115,7 +115,7 @@ The JavaScript is organized into logical sections:
 
 - Categories/Tags for organizing links
 - Search/Filter functionality
-- Export/Import bookmarks
+- Export/Import links
 - Cloud sync across devices
 - Link preview on hover
 
