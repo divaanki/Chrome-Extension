@@ -1,4 +1,4 @@
-# SaveMyLink - Chrome Bookmark Manager
+# SaveMyLink - Chrome Extension for saving links
 
 A beautiful and functional Chrome extension for saving and managing bookmarks with an elegant glass morphism design.
 
